@@ -1,5 +1,7 @@
 ## Description [![Build Status](https://travis-ci.org/koekeishiya/khd.svg?branch=master)](https://travis-ci.org/koekeishiya/khd)
 
+**NOTE**: **Khd** is no longer maintained! See [skhd](https://github.com/koekeishiya/skhd/) for an up-to-date and maintained alternative
+
 **Khd** is a simple modal hotkey-daemon for MacOS, using [Quartz Event Services](https://developer.apple.com/reference/coregraphics/1658572-quartz_event_services?language=objc).
 
 **Khd** must have access to the *Accessibility API*, or be ran as root.
